@@ -1,0 +1,22 @@
+table {
+    background-color: black;
+    color: bisque;
+}
+body{
+    background-color: black;
+    color: bisque;
+}
+.section {
+    background-color: black;
+    color: bisque;
+}
+.header{
+    background-color:red;
+}
+.container{ 
+    color: bisque;
+}
+.selected{
+    background-color: yellow;
+    color: black;
+}
